@@ -63,6 +63,11 @@ var profiles = [
         "name" : "Evie Skinner",
         "place" : "Stroud, UK",
         "github" : "Evie-Skinner18"
+    },
+    {
+        "name" : "Moin Shaikh",
+        "place" : "Ahmedabad, India",
+        "github" : "moingshaikh"
     }
 ]
 
